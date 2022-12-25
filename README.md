@@ -1,6 +1,6 @@
-# Unofficial chatGPT API by Python
+# chatGPT API module by Python
 #  
-### As its name, this is a handy chatGPT API (unofficial) since OpenAI has not been released their one yet.
+### As its name, this is an easy-to-use chatGPT API (unofficial) since OpenAI has not been released their one yet.
 # 
 ## 如何使用 <br/>How to use?
 # 
@@ -36,16 +36,18 @@ api.open_browser()
 resp = api.send_message('good morning')
 print(resp)
 ```
-#### Response
+Response <br/>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/71726501/209455949-78240372-ce8e-40e7-b961-88523f30903d.png">
 
+<br/>
+<br/>
 
 #### 你也可以指定輸出語言，目前只提供繁簡中文和英文 <br/> you can also specify a language you want chaTGPT replay with, now only English, ZH-TW and ZH-CN are supported. 
 ```
 resp = api.send_message('What can I do if I lose my sleep?', 'zhtw')
 print(resp)
 ```
-#### Response
+Response <br/>
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/71726501/209456147-fc27662e-9939-4222-8ab4-ba10c8184195.png">
 <br/>
 <br/>
