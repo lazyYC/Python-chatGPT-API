@@ -1,6 +1,5 @@
 import time
 import os
-import flask
 import random
 import undetected_chromedriver as uc
 from selenium import webdriver
