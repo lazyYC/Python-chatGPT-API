@@ -1,7 +1,5 @@
-# Unofficial-chatGPT-API
-A python chatGPT API module made by LazyYC
-# 
-# 
+# Unofficial chatGPT API by Python
+#  
 ### As its name, this is a handy chatGPT API (unofficial) since OpenAI has not been released their one yet.
 # 
 ## 如何使用 <br/>How to use?
