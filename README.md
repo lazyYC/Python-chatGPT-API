@@ -45,6 +45,7 @@ print(resp)
 resp = api.send_message('What can I do if I lose my sleep?', 'zhtw')
 print(resp)
 ```
+#### Response
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/71726501/209456147-fc27662e-9939-4222-8ab4-ba10c8184195.png">
 <br/>
 <br/>
