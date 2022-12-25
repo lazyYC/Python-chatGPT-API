@@ -23,6 +23,7 @@ An unofficial chatGPT API module made by LazyYC
 ### 2. API
 #### 
 ```
+from chatgpt_api import chatgpt_api
 api = chatgpt_api(
     # your token
 )
