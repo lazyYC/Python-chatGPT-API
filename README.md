@@ -1,6 +1,6 @@
 # chatGPT API module by Python
 #  
-### As its name, this is an easy-to-use chatGPT API (unofficial) since OpenAI has not released their own yet.
+### This is a handy, lightweight unofficial chatGPT API, since OpenAI has not released their own yet.
 # 
 ## 如何使用 <br/>How to use?
 # 
